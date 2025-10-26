@@ -1,19 +1,3 @@
-#Bài 1 :
-a,b=map(int,input("Nhập 2 số a , b bất kì ").split())
-print(a+b)
-print(a-b)
-print(a*b)
-print(a//b)
-print(a**b)
-print(a%b)
-if a>b :
-    print("a lớn hơnb")
-elif a <b:
-    print("a nhỏ hơn b")
-else : 
-    print("a bằng b ")
-print(a & b)
-print(a / b)
-print(a^b)
-n=bin(a)[2:]
-print(n[::-1])
+l1=(1,2,3,4)
+l2=("A","B","C","D","E")
+L3=zip(l1,l2)
