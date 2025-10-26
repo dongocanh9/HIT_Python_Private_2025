@@ -1,6 +1,6 @@
 import math
 #1.2
-n=int(input("Nhập váo 1 số nguyên dương bất kì : "))
+n=int(input("Nhập váo 1 số nguyên bất kì : "))
 tong=1
 for n in range(2,n+1):
     tong+=1/math.factorial(n)
