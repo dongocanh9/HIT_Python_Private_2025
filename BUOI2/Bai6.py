@@ -20,8 +20,8 @@ while True :
         tong1+=price
 print(f"Tổng tiền trước giảm giá :{tong1} VND")
 tong2=0
-giamgia=tong1*0.1
 if tong1>200000 :
+    giamgia=tong1*0.1
     tong2=tong1-giamgia
 else:
     giamgia=0
