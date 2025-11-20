@@ -36,3 +36,10 @@ print(f"Sắp xếp theo abs : {listc}")
 
 
 
+<<<<<<< HEAD
+=======
+
+
+
+
+>>>>>>> cf1578c9175a77e4ec30c13813d1231305263e65
